@@ -1,5 +1,4 @@
 package project.euler.shaurya;
-
 public class SumSquareDifference {
 	public static void main(String[] args) {
 		long n=100;
